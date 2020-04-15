@@ -84,6 +84,7 @@
 
   <script>
     const gitalk = new Gitalk({
+      id: decodeURI('{{ page.url }}'),
       clientID: '3f083a1cf9d816f3535d',
       clientSecret: '1ffe24155eb4e69199d044be47210f455ead0ed4',
       repo: 'waterman-blog',
