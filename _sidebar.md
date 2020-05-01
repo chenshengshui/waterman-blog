@@ -13,4 +13,5 @@
   - [你可能不知道的 React 用法 🔥](/react/你可能不知道的React用法🔥)
 
 - [Typescript](/ts/)
-  - [ts 交叉类型](/ts/ts交叉类型)
+  - [typescript 不能不掌握的高级特性（一）](/ts/typescript不能不掌握的高级特性（一）)
+  - [typescript 不能不掌握的高级特性（二）](/ts/typescript不能不掌握的高级特性（二）)
