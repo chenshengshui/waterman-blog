@@ -15,3 +15,4 @@
 - [Typescript](/ts/)
   - [typescript 不能不掌握的高级特性（一）](/ts/typescript不能不掌握的高级特性（一）)
   - [typescript 不能不掌握的高级特性（二）](/ts/typescript不能不掌握的高级特性（二）)
+  - [typescript 不能不掌握的高级特性（三）](/ts/typescript不能不掌握的高级特性（三）)
